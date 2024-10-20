@@ -29,7 +29,7 @@
 
 <p> <b> Languages Used: HTML, CSS, & JavaScript  </b> </p>
 <h2>Preview: </h2>
-<p>This is preview of the project. You can visit live preview on <a href="https://guna-dhamothiran.github.io/PRODIGY_WD_05(WeatherApp)/" target="_blank"> Here. </a></p>
+<p>This is preview of the project. You can visit live preview on <a href="https://github.com/guna-dhamothiran/PRODIGY_WD_05-WeatherApp-" target="_blank"> Here. </a></p>
 
 
 
